@@ -1,0 +1,22 @@
+.wha{
+    color: black;
+}
+
+a:hover{
+    color: green;
+}
+
+.mail{
+    color: black;
+    text-decoration: none;
+}
+
+.phone{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.add{
+    font-size: 20px;
+    padding-left: 20px;
+}
